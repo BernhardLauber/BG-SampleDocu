@@ -14,6 +14,8 @@ Und hier noch eine kleine Änderung um zu sehen, ob ReadTheDocs.org automatisch 
 
 .. caution:: Und noch eine zweite Änderung, auch direkt auf GitHub gemacht.
 
+.. danger:: Und noch eine weiter Änderung, diesmal wieder in VS Code lokal gemacht.
+
 .. image:: /images/Logo_biGenius.jpg
 
 .. You can use the :hidden: dirctive below, if needed.
