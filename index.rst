@@ -10,6 +10,8 @@ Welcome to the biGENiUS Documentation
 
 Und hier noch eine kleine Änderung um zu sehen, ob ReadTheDocs.org automatisch builded.
 
+.. note:: Und noch eine weitere Änderung, diesmal direkt auf GitHub gemacht.
+
 .. image:: /images/Logo_biGenius.jpg
 
 .. You can use the :hidden: dirctive below, if needed.
