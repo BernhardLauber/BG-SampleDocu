@@ -8,6 +8,8 @@ Welcome to the biGENiUS Documentation
 
 .. note:: This is just a demo project and not intended to be used in real life.
 
+Und hier noch eine kleine Änderung um zu sehen, ob ReadTheDocs.org automatisch builded.
+
 .. image:: /images/Logo_biGenius.jpg
 
 .. You can use the :hidden: dirctive below, if needed.
